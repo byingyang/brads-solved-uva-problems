@@ -1,0 +1,2 @@
+make
+./10209 < input.txt

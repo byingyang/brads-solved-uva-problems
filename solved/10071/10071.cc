@@ -1,0 +1,1 @@
+#include <iostream>using namespace std;int main() {	int v = 0;	int t = 0;	while(cin >> v) {		cin >> t;		cout << (t << 1) * v << endl;	}	return 0;}

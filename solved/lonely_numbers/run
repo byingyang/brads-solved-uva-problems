@@ -1,0 +1,2 @@
+make
+./lonely_numbers < input.txt
